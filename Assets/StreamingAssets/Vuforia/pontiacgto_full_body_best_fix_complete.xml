@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="pontiacgto_full_body_best_fix_complete" motionHint="static" trackingMode="car" optimizeTrackingFor="low_feature_objects"/>
+
+</Tracking>
+
+<Assembly name="pontiacgto_full_body_best_fix_completes_assembly" assemblyId="772e3a67e078444282965e9f85a58046">
+<Part name="pontiacgto_full_body_best_fix_complete" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0185153 0.00980212 0.100624" rotation="AD: 0.995038 -0.4265 0.313381 114.056" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.0185153 0.00980212 0.100624" rotation="AD: 0.995038 -0.4265 0.313381 114.056" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.0185153 0.00980212 0.100624" rotation="AD: 0.995038 -0.4265 0.313381 114.056" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

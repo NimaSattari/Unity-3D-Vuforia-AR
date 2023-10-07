@@ -4,5 +4,30 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 03dc46419aba59942938204c6bf4cfcd
+  - enabled: 1
+    path: Assets/Scenes/Virtual Button.unity
+    guid: 311fdb48b60c3114687632b534bd0fc4
+  - enabled: 1
+    path: Assets/Scenes/Animated 2 Objects On Image.unity
+    guid: 7893f3a9d6b02004180367d65bcdc19d
+  - enabled: 1
+    path: Assets/Scenes/Ground Plane.unity
+    guid: 79d61ddc3c200294eada5fb14d86bdf8
+  - enabled: 1
+    path: Assets/Scenes/Levitate Sphere On Image.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Model Target.unity
+    guid: ab96fadb546efaf4fb54b0e569628e39
+  - enabled: 1
+    path: Assets/Scenes/Video.unity
+    guid: e4225ac9bfec6df4a9b2fd29739e6e90
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f361a527c71b31f4c9a2b724114154d0, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 440cc1ae8e805734baa2b8d0421611eb, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 767db329c54162e4d900cddd731b3859, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 5e672755a03d6994e9ec8b5f3a766189, type: 2}
